@@ -1,5 +1,4 @@
 import React from "react";
-import quotes from "./AffirmationDatabase";
 
 class Affirmations extends React.Component {
     render() {

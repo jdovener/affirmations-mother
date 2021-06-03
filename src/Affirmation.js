@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Affirmations from "./Affirmations";
 import quotes from "./AffirmationDatabase";
-import userEvent from "@testing-library/user-event";
 
 function Affirmation (props) {
 
