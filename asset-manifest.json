@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/affirmations-mother/static/css/main.b6f7388b.chunk.css",
-    "main.js": "/affirmations-mother/static/js/main.25075316.chunk.js",
-    "main.js.map": "/affirmations-mother/static/js/main.25075316.chunk.js.map",
+    "main.js": "/affirmations-mother/static/js/main.65d8b94d.chunk.js",
+    "main.js.map": "/affirmations-mother/static/js/main.65d8b94d.chunk.js.map",
     "runtime-main.js": "/affirmations-mother/static/js/runtime-main.8219a2a5.js",
     "runtime-main.js.map": "/affirmations-mother/static/js/runtime-main.8219a2a5.js.map",
     "static/js/2.50054bdd.chunk.js": "/affirmations-mother/static/js/2.50054bdd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8219a2a5.js",
     "static/js/2.50054bdd.chunk.js",
     "static/css/main.b6f7388b.chunk.css",
-    "static/js/main.25075316.chunk.js"
+    "static/js/main.65d8b94d.chunk.js"
   ]
 }
