@@ -68,7 +68,7 @@ const quotes=[
     }, {
     "quote": "Uv oo xx"
     }, {
-    "quote": "I am independant"
+    "quote": "I am independent"
     }, {
     "quote": "Nothing is permanent"
     }, {
