@@ -1,6 +1,6 @@
 const quotes=[
     {
-    "quote": "I have a son that loves me"
+    "quote": "I have a son that loves me!"
     }, {
     "quote": "I am creative"
     }, {
