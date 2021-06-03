@@ -71,6 +71,8 @@ const quotes=[
     "quote": "I am independant"
     }, {
     "quote": "Nothing is permanent"
-    }, 
+    }, {
+    "quote": "I am always willing to help others"
+    }
 ]
 export default quotes
