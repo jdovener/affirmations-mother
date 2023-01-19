@@ -73,6 +73,8 @@ const quotes=[
     "quote": "Nothing is permanent"
     }, {
     "quote": "I am always willing to help others"
+    }, {
+    "quote": "The value of my creativity is not measured only by it's output"
     }
 ]
 export default quotes
