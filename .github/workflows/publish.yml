@@ -22,5 +22,5 @@ jobs:
     - name: Deploy to gh-pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        deploy_key: ${{ secrets.AFFKEYMOM }}
+        deploy_key: ${{ secrets.AFFKEYMOMTWO }}
         publish_dir: ./build
